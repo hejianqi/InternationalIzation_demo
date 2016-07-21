@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  InternationalIzation_demo
+
+  Created by hjq on 16/7/21.
+  Copyright © 2016年 UTOUU. All rights reserved.
+*/
+
+CFBundleDisplayName = "世界 你好";

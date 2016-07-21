@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  InternationalIzation_demo
+
+  Created by hjq on 16/7/21.
+  Copyright © 2016年 UTOUU. All rights reserved.
+*/
+
+
+"key" = "hello world";
+"key2" = "I love you";
