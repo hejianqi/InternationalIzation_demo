@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		053DA7651D41FE0C004453DC /* InternationalControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 053DA7641D41FE0C004453DC /* InternationalControl.m */; };
 		055BE8141D40AFF6003DC20B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 055BE8131D40AFF6003DC20B /* main.m */; };
 		055BE8171D40AFF6003DC20B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 055BE8161D40AFF6003DC20B /* AppDelegate.m */; };
 		055BE81A1D40AFF6003DC20B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 055BE8191D40AFF6003DC20B /* ViewController.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		053DA7631D41FE0C004453DC /* InternationalControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InternationalControl.h; sourceTree = "<group>"; };
+		053DA7641D41FE0C004453DC /* InternationalControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InternationalControl.m; sourceTree = "<group>"; };
 		055BE80F1D40AFF6003DC20B /* InternationalIzation_demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InternationalIzation_demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		055BE8131D40AFF6003DC20B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		055BE8151D40AFF6003DC20B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -113,6 +116,8 @@
 				055BE8161D40AFF6003DC20B /* AppDelegate.m */,
 				055BE8181D40AFF6003DC20B /* ViewController.h */,
 				055BE8191D40AFF6003DC20B /* ViewController.m */,
+				053DA7631D41FE0C004453DC /* InternationalControl.h */,
+				053DA7641D41FE0C004453DC /* InternationalControl.m */,
 				055BE81B1D40AFF6003DC20B /* Main.storyboard */,
 				055BE81E1D40AFF6003DC20B /* Assets.xcassets */,
 				055BE8201D40AFF6003DC20B /* LaunchScreen.storyboard */,
@@ -285,6 +290,7 @@
 			files = (
 				055BE81A1D40AFF6003DC20B /* ViewController.m in Sources */,
 				055BE8171D40AFF6003DC20B /* AppDelegate.m in Sources */,
+				053DA7651D41FE0C004453DC /* InternationalControl.m in Sources */,
 				055BE8141D40AFF6003DC20B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -530,6 +536,7 @@
 				055BE83E1D40AFF6003DC20B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		055BE83F1D40AFF6003DC20B /* Build configuration list for PBXNativeTarget "InternationalIzation_demoTests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +545,7 @@
 				055BE8411D40AFF6003DC20B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		055BE8421D40AFF6003DC20B /* Build configuration list for PBXNativeTarget "InternationalIzation_demoUITests" */ = {
 			isa = XCConfigurationList;
@@ -546,6 +554,7 @@
 				055BE8441D40AFF6003DC20B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

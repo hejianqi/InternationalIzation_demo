@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property (strong, nonatomic) UIButton *btchange;
+@property (strong, nonatomic) UILabel *label;
 
 @end
 
